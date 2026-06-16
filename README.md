@@ -56,19 +56,19 @@ With "Clusters" selected along the left, you can select between the Space Ranger
 Images and details of the replicates are below:
 1.	Rep1 dataset description: the dataset contains 4 time points post-irradiation (IR); 2 replicas of day 0 (non-IR control), and day 1, 3, and 5 post-IR. The tissues are arranged in a “rainbow” orientation. A labeled image is below.
 	
-	  <img width="468" alt="image" src="https://github.com/user-attachments/assets/f723f0fd-948f-430a-9211-7b4b52ca6153" />
+	  <img width="468" alt="image" src="https://github.com/tht38/intestinalspatialregen/blob/main/Rep%201.png" />
 
 2.  Rep2 dataset description: the dataset contains 5 timepoints post-irradiation (IR); day 0 (non-IR control), and day 1, 2, 3, and 5 post-IR. The tissues are arranged in a “rainbow” orientation. A labeled image is below.
 
-    <img width="471" alt="image" src="https://github.com/user-attachments/assets/32bda288-e550-4bd5-8cdd-0ca01cf398fa" />
+    <img width="471" alt="image" src="https://github.com/tht38/intestinalspatialregen/blob/main/Rep%202.png" />
 
 3.  Rep3 dataset description: the dataset contains 4 timepoints post-irradiation (IR); day 0 (non-IR control), and day 1, 3, and 5 post-IR. The tissues are arranged in a “rainbow” orientation. A labeled image is below.
 
-    <img width="468" alt="image" src="https://github.com/user-attachments/assets/d374a29c-0975-4313-bc49-e42bba94304f" />
+    <img width="468" alt="image" src="https://github.com/tht38/intestinalspatialregen/blob/main/Rep%203.png" />
 
 4.  Rep4 dataset description: the dataset contains 4 timepoints post-irradiation (IR); day 0 (non-IR control), and 2 replicas of day 2, 2 replicas of day 4, and day 6 post-IR. The tissues are arranged in a “rainbow” orientation. A labeled image is below.
 
-    <img width="468" alt="image" src="https://github.com/user-attachments/assets/5a9df5c8-c60f-498a-8cdd-322cf5a453f3" />
+    <img width="468" alt="image" src="https://github.com/tht38/intestinalspatialregen/blob/main/Rep%204.png" />
 
 
 
