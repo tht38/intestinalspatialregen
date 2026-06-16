@@ -27,10 +27,7 @@ https://www.10xgenomics.com/support/software/loupe-browser/downloads
 
 3.	To separate each slide by irradiation timepoint, the bins corresponding to each treatment are listed in .csv files located under "Spatial replicate metadatafiles" which can be uploaded to the Loupe Browser by selecting the Upload icon along the bottom left, to the right of "Create a New Group".
 
-4.	Once you have downloaded Loupe Browser and the dataset, you can open the dataset and start becoming familiar with how to use Loupe Browser to explore the data. The file may take several minutes to open, depending upon the size.
-
-    The link below provides a comprehensive walkthrough of most of the features and analysis tools.
--	Please note that the spot deconvolution feature does not work on Visium HD data. 
+4.	The link below provides a comprehensive walkthrough of most of the features and analysis tools of the Loupe Browser for the dataset.
 https://www.10xgenomics.com/support/software/loupe-browser/latest/tutorials/introduction/lb-navigation-for-spatial
 
 5.	The link below provides a slightly more in-depth description on analysis using unsupervised clustering, mapping “features” (genes of interest) on the image, mapping specific cell types, filtering barcodes, running DGE, and using the co-expression feature. 
