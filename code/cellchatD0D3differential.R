@@ -7,10 +7,6 @@ library(igraph)
 library(CellChat)
 library(patchwork)
 
-data.dir <- '/Users/tylertran/Desktop/spatial r/rep 2/Jej_1B5_abc15_keep/8um/cellchat.420/comparison'
-dir.create(data.dir)
-setwd(data.dir)
-
 #6 groups (intercrypt, subcrypt combined), 3 databases
 cellchat.d0 <- readRDS('6groupsDB3samename8umRegionsD0cellchat_trim001.200.20.rds')
 cellchat.d3 <- readRDS('6groupsDB3samename8umRegionsD3cellchat_trim001.200.20.rds')
